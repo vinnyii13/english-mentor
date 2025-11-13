@@ -1,47 +1,47 @@
-# 🇬🇧 English Mentor — Interactive AI English Coach (Emma)
+# 🇬🇧 English Mentor — Aprenda Inglês com IA 💬
 
-**English Mentor** is a front-end educational project that helps beginners learn basic English interactively.
-The app simulates a friendly AI teacher named **Emma** — she speaks, guides, asks questions and offers short quizzes.
+Bem-vindo ao **English Mentor**, um projeto interativo criado para ajudar iniciantes a aprender **inglês básico** de forma divertida e envolvente — com a ajuda da **Emma**, uma professora virtual que fala e interage com você em tempo real! 🎙️
 
----
-
-## Features
-
-- Chat-style learning flow with guided lessons
-- Voice output using the Web Speech API (SpeechSynthesis)
-- Basic lesson modules: Greetings, Introductions, Numbers, Colors, Objects, Animals, Food
-- Short built-in quiz for practice
-- Modern responsive UI, ready to deploy on GitHub Pages
+🌐 **Acesse o projeto:** [vinnyii13.github.io/english-mentor](https://vinnyii13.github.io/english-mentor)
 
 ---
 
-## How to use
+## ✨ Recursos
 
-1. Clone or download this repository.
-2. Open `index.html` in a modern browser (Chrome, Edge, Firefox).
-3. For the voice feature, allow sound and use a browser that supports the Web Speech API.
-   - Voice may vary between browsers and operating systems.
-
----
-
-## Run on GitHub Pages
-
-1. Create a new GitHub repository and push these files.
-2. In repository **Settings → Pages**, set source to `main` branch and `/ (root)`.
-3. Wait a few seconds and open `https://<your-username>.github.io/<repo-name>/`
+- 👩‍🏫 **Professora Virtual (Emma):** fala e interage com o usuário.  
+- 🧠 **Aulas de Inglês Básico:** vocabulário, saudações, cores, números e frases comuns.  
+- 🎙️ **Integração com Voz:** usa a Web Speech API para uma experiência imersiva.  
+- 📱 **Design Responsivo:** adaptado para celular e desktop.  
+- 🕹️ **Interface Interativa:** simples, moderna e educativa.
 
 ---
 
-## Notes & Next steps
+## 🛠️ Tecnologias Utilizadas
 
-- Speech recognition (SpeechRecognition API) can be added to accept spoken answers.
-- Add more lessons, levels (Intermediate/Advanced) and persistence (save progress).
-- Improve accessibility (ARIA roles) and add localization options.
+| Tecnologia | Função |
+|-------------|---------|
+| **HTML5** | Estrutura principal da aplicação web |
+| **CSS3** | Estilos modernos e layout responsivo |
+| **JavaScript (ES6)** | Interatividade e lógica principal |
+| **Web Speech API** | Síntese de voz e interação falada |
 
 ---
 
-## Author
+## 📸 Prévia
 
-**Vinícius Santos** — Student of Systems Analysis and Development (ADS)  
-Passionate about education, UX and front-end development.
+*(Adicione aqui uma imagem de captura do site depois que tirar um print da página principal!)*
+
+---
+
+## 🚀 Como Usar
+
+1. Acesse o projeto online:  
+   👉 [https://vinnyii13.github.io/english-mentor/](https://vinnyii13.github.io/english-mentor/)
+2. Clique em **“Start”** para iniciar.  
+3. Converse ou digite suas respostas para interagir com **Emma**.  
+4. Aprenda vocabulário e pronúncia de forma prática e divertida 🇬🇧✨  
+
+---
+
+## 🧩 Estrutura do Projeto
 
