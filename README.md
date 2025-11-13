@@ -29,7 +29,9 @@ Bem-vindo ao **English Mentor**, um projeto interativo criado para ajudar inicia
 
 ## 📸 Prévia
 
-(https://github.com/vinnyii13/english-mentor/blob/main/Img.png)
+
+![English Mentor Screenshot](https://github.com/vinnyii13/english-mentor/blob/main/Img.png)
+
 
 ---
 
